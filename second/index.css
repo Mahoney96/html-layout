@@ -1,0 +1,79 @@
+.body {
+    margin: 10px;
+    padding: 25px;
+}
+
+.container-one {
+    width: 100%;
+    border: 5px solid;
+    padding: 10px;
+    box-sizing: content-box; 
+}
+
+.square-one {
+   height: 150px; 
+   width: 50px;
+   background-color: blueviolet;
+   box-sizing: border-box;
+   display: inline-block;
+}
+
+.square-two {
+height: 200px;
+width: 400px;
+background-color: forestgreen;
+display: inline-block;
+}
+
+.circle-one{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: skyblue;
+    display: inline-block;
+}
+
+.container-two {
+    width: 100%;
+    padding: 10px;
+    box-sizing: content-box;
+    border: 5px black;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+
+.container-three {
+    width: 50%;
+    border: 1px solid #ccc;    
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10%;
+    margin: 25px auto;
+    -moz-box-shadow:  3px 3px 5px 0px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 3px 3px 5px  0px rgba(0,0,0,0.25);
+    box-shadow:  3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.box-shadow {
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: lemonchiffon;
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.h1 {
+    width: 100%;
+    background-color: oldlace;
+    text-align: center;
+    
+
+
+}
+
+
+
+
